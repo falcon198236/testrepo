@@ -1,4 +1,4 @@
-"GEPart#","Description","supplier1","supplier1Part","supplier1PartUrl","supplier2","supplier2Part","supplier2PartUrl","Mfg1","Mfg1Part","Mfg1PartUrl","Mfg2","Mfg2Part","Mfg2PartUrl","Rack","Shelf","Weight","Status","MinQTY","ReorderQTY"
+  "GEPart#","Description","supplier1","supplier1Part","supplier1PartUrl","supplier2","supplier2Part","supplier2PartUrl","Mfg1","Mfg1Part","Mfg1PartUrl","Mfg2","Mfg2Part","Mfg2PartUrl","Rack","Shelf","Weight","Status","MinQTY","ReorderQTY"
 "102001","Cassette Base, Mapper","GIFFORD ENG","102001","-","York Industries","-","-","York Industries","-","-","York Industries","-","-","-","-","-","-","-","-"
 "102002","Spine, Lifters, Mapper 200","GIFFORD ENG","102002","-","York Industries","-","-","York Industries","-","-","York Industries","-","-","-","-","-","-","-","-"
 "102003","Bracket, Tombstone Bearing, Mapper 200","GIFFORD ENG","102003","-","York Industries","-","-","York Industries","-","-","York Industries","-","-","-","-","-","-","-","-"
